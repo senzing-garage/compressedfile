@@ -1,3 +1,3 @@
 # compressedfile
 
-## Synopsi
+## Synopsis
