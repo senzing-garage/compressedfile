@@ -1,0 +1,22 @@
+[pylint]
+disable=
+    broad-except,
+    consider-using-f-string,
+    invalid-name,
+    line-too-long,
+    missing-class-docstring,
+    missing-function-docstring,
+    missing-module-docstring,
+    no-else-return,
+    simplifiable-if-expression,
+    too-many-arguments,
+    too-many-branches,
+    too-many-locals,
+    too-many-return-statements,
+    try-except-raise,
+good-names=
+    template-python
+ignore=
+    __init__.py,
+notes=
+    FIXME,
