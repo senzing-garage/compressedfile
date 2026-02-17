@@ -2,20 +2,20 @@
   "version": "0.2",
   "language": "en",
   "words": [
+    "analysing",
     "CCLA",
     "CODEOWNER",
-    "ICLA",
-    "MULTICHAR",
-    "Senzing",
-    "analysing",
     "compressedfile",
+    "cooldown",
     "esbenp",
+    "ICLA",
+    "kernelsam",
+    "MULTICHAR",
     "pydev",
     "pylint",
+    "Senzing",
     "simplifiable",
     "stackoverflow"
   ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+  "ignorePaths": [".git/**"]
 }
